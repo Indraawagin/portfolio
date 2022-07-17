@@ -105,9 +105,7 @@ img {
   max-width: 1024px;
   display: grid;
   margin-left: var(--mb-2);
-  /* margin: 0 2rem 2rem 2rem; */
   margin-right: var(--mb-2);
-  margin-bottom: var(--mb-2);
 }
 
 .l-header {
